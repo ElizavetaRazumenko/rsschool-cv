@@ -47,7 +47,7 @@ html {
   
 .section {
     width: 48%;
-    padding: 0 15px;
+    padding: 0px 15px;
 }
 .section-title {
     font-style: italic;
@@ -84,9 +84,9 @@ html {
     color: antiquewhite;
 }
 .text {
-    font-size: 20px;
+    font-size: 24px;
     font-weight: 600;
-    line-height: 25px;
+    line-height:34px;
     text-align: justify;
 }
 .footer {
